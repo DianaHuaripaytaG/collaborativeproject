@@ -2,4 +2,4 @@
 ## Firt enviroment
 * Frontend: HTML - CSS - JS
 * Backend: Node
-* Data Base: MongoDB
+* Data Base: SQL
