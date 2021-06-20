@@ -1,3 +1,5 @@
 # collaborativeproject
 ## Firt enviroment
-HTML - CSS - JS
+Frontend: HTML - CSS - JS
+Backend: Node
+Data Base: MongoDB
